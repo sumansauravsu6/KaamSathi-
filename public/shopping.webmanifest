@@ -1,0 +1,12 @@
+{
+  "name": "KaamSaathi Shopping",
+  "short_name": "Shop",
+  "description": "Order from your local shop.",
+  "display": "standalone",
+  "background_color": "#f8f6ee",
+  "theme_color": "#174e38",
+  "icons": [
+    { "src": "/shopping-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/shopping-icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
